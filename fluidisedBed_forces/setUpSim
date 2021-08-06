@@ -1,0 +1,3 @@
+blockMesh | tee log.blockMesh
+setFields | tee log.setFields
+checkMesh | tee log.checkMesh

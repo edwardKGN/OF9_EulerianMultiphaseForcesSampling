@@ -1,0 +1,8 @@
+--> FOAM FATAL ERROR: 
+No valid model for viscous stress calculation
+
+    From function Foam::tmp<Foam::GeometricField<Foam::SymmTensor<double>, Foam::fvPatchField, Foam::volMesh> > Foam::functionObjects::forces::devTau() const
+    in file forces/forces.C at line 288.
+
+FOAM exiting
+
